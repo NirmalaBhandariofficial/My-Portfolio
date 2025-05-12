@@ -14,10 +14,10 @@
         <div class="container">
             <a class="navbar-brand" href="{{route('any', 'index-1')}}">
                 <span class="logo-light-mode">
-                    <img src="/images/logo-light.png" class="l-light" alt="">
-                    <img src="/images/logo-dark.png" class="l-dark" alt="">
+                    <img src="/images/nimi-logooo.png" class="l-light" alt="">
+                    <img src="/images/nimi-logo-light.png" class="l-dark" alt="">
                 </span>
-                <img src="/images/logo-light.png" class="logo-dark-mode" alt="">
+                <img src="/images/nimi-logooo.png" class="logo-dark-mode" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -533,12 +533,12 @@
                 <div class="col-lg-4 col-md-6 col-12 picture-item" data-groups='["branding"]'>
                     <div class="work-container position-relative d-block overflow-hidden rounded">
                         <div class="card-body p-0">
-                            <img src="/images/portfolio/01.jpg" class="img-fluid" alt="work-image">
+                            <img src="/images/developmentpulse.png" class="img-fluid" alt="work-image">
                             <div class="overlay-work bg-dark"></div>
                             <div class="content">
                                 <h5 class="mb-3"><a class='content-title' href="{{route('any', 'portfolio')}}">Mockup
-                                        Collection</a></h5>
-                                <h6 class="text-light tag mb-0">Mockup</h6>
+                                       Development Pulse</a></h5>
+                                <h6 class="text-light tag mb-0">Completed</h6>
                             </div>
                         </div>
                     </div>

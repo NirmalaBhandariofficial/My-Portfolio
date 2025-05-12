@@ -1,0 +1,2 @@
+<?php echo $__env->yieldContent('css'); ?>
+<?php echo app('Illuminate\Foundation\Vite')(['resources/scss/style.scss']); ?><?php /**PATH /home/krushant/Krushant/natia-laravel/resources/views/layouts/partials/head-css.blade.php ENDPATH**/ ?>
